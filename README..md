@@ -1,5 +1,3 @@
-![APC Project output](apc-output-1.png)
-
 
 🚀 Arbitrary Precision Calculator (APC)
 
@@ -110,7 +108,7 @@ The program accepts two numbers and an arithmetic operator through command-line 
 
 The following screenshot demonstrates the execution of the APC program.
 
-![APC Project output](apc-output-1.png)
+![APC Project output](apc-output.png)
 
 📚 Key Learning Outcomes
 
